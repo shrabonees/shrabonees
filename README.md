@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi , there  I'm Mst. Isratjahan Shrabonee
 
-<!--
-**shrabonees/shrabonees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science student learning web development and software development.
 
-Here are some ideas to get you started:
+## Skills
+- MySQL
+- Java
+- C / C++
+- Python
+- HTML, CSS, JavaScript
+- Web & Mobile UI Design
+- Excel Invoice Design
+- Logo Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- React
+- Next.js
+- Backend & Database Connection
+-  REST API Integration
+
+## Projects
+- Web Application
+- Excel Invoice Design
+- Figma UI Design Portfolio
